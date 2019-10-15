@@ -9,7 +9,7 @@ at the University of Toronto Mississauga on October 15th, 2019.
 ## Copyright
 
 The work, herein, is Copyright 2019.\
-**No rights are given to reproduce or modify this work**.\
+**The work is meant for educational use only. No rights are given to reproduce or modify this work**.\
 If you are seeking rights to use some of the content within, please contact me 
 via email (send to: michael [dot] liut [at] utoronto.ca).
 
